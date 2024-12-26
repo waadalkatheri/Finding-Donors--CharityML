@@ -24,4 +24,3 @@ The dataset for this project originates from the [UCI Machine Learning Repositor
 
 
 ## Performance Metrics for Three Supervised Learning Models
-![](images/d1ff32aeb6b88c8a68369b3d311e1ae7eda2a392.png)
